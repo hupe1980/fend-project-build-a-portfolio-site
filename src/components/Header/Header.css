@@ -1,0 +1,10 @@
+.app_header {
+  margin-top: 5px;
+  color: #2d3c49;
+}
+
+.horizontal_line {
+    border: none;
+    height: 2px;
+    background-color: #7d97ad;
+}
