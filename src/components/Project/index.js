@@ -8,7 +8,7 @@ export default ({ name, imgSrc, desc, link }) => (
       <img className="card-img-top" src={imgSrc} alt={name} />
       <div className="card-body text-center">
         <h3 className="text-uppercase">{name}</h3>
-        <p class="card-text">{desc}</p>
+        <p className="card-text">{desc}</p>
         <a href={link} className="card-link project_link">
           {link}
         </a>
